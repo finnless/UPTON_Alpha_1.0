@@ -252,7 +252,7 @@
   <PhysicsWorldLeft>0</PhysicsWorldLeft>
   <PhysicsWorldRight>640</PhysicsWorldRight>
   <PhysicsWorldBottom>480</PhysicsWorldBottom>
-  <PhysicsWorldGravityX>0</PhysicsWorldGravityX>
+  <PhysicsWorldGravityX>20</PhysicsWorldGravityX>
   <PhysicsWorldGravityY>10</PhysicsWorldGravityY>
   <PhysicsWorldPixToMeters>0.100000001490116</PhysicsWorldPixToMeters>
 </room>
