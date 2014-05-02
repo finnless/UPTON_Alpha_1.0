@@ -75,49 +75,6 @@
     <instance objName="ground1" x="1120" y="288" name="inst_448A1099" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ground1" x="1152" y="288" name="inst_1A4649C1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ground1" x="1024" y="288" name="inst_7634C8A2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="0" y="480" name="inst_4FC39F54" locked="0" code="" scaleX="4" scaleY="0" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="0" y="480" name="inst_432D8B16" locked="0" code="" scaleX="2" scaleY="0" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="0" y="448" name="inst_9A17EFE2" locked="0" code="" scaleX="4" scaleY="0" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="0" y="480" name="inst_77DD6172" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="64" y="480" name="inst_FA5A3AA6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="32" y="480" name="inst_813C51F6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="96" y="480" name="inst_FCDAE63C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="128" y="480" name="inst_CD740013" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="192" y="480" name="inst_AF07BCBA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="160" y="480" name="inst_7060A306" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="224" y="480" name="inst_7103AF93" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="256" y="480" name="inst_99DEFFF8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="288" y="480" name="inst_0B44BB05" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="320" y="480" name="inst_6E02501A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="352" y="480" name="inst_7F392201" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="384" y="480" name="inst_6F03475F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="416" y="480" name="inst_E2877614" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="448" y="480" name="inst_6866C81B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="480" y="480" name="inst_A9CCD36E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="512" y="480" name="inst_DD8D8817" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="544" y="480" name="inst_13DFED0F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="576" y="480" name="inst_36CFD973" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="608" y="480" name="inst_AC40DFE7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="640" y="480" name="inst_E8C02A42" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="672" y="480" name="inst_1CD77F77" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="704" y="480" name="inst_966CB9F0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="736" y="480" name="inst_05338428" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="768" y="480" name="inst_1FBC5186" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="800" y="480" name="inst_027DAAF4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="832" y="480" name="inst_1C9B6FAA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="864" y="480" name="inst_3AB1D796" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="896" y="480" name="inst_8BEDF86C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="928" y="480" name="inst_1AE53566" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="960" y="480" name="inst_FDDFEDB1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="992" y="480" name="inst_13ABA3F3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="1024" y="480" name="inst_0C935E61" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="1056" y="480" name="inst_FEEBCD97" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="1120" y="480" name="inst_D4ABD45F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="1088" y="480" name="inst_2FEB1F1C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="1152" y="480" name="inst_995C29E0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="1184" y="480" name="inst_2139A407" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="1216" y="480" name="inst_EA77AB7A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bordor" x="1248" y="480" name="inst_98F6E070" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ground1" x="-32" y="448" name="inst_27EFBE99" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ground1" x="-32" y="416" name="inst_A5293CC1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ground1" x="-32" y="384" name="inst_C2F6C67A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -245,6 +202,8 @@
     <instance objName="ground1" x="800" y="416" name="inst_0D9B3BC0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ground1" x="864" y="288" name="inst_CC4DD4AF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="portal_obj" x="1184" y="192" name="inst_EFA5A093" locked="0" code="" scaleX="2.03225803375244" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="door_obj" x="352" y="64" name="inst_2EF8D22E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_room_controller" x="0" y="0" name="inst_B103A8D3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
